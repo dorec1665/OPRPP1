@@ -1,4 +1,4 @@
-# OPRPP1 - Odabrana Poglavlja Razvoja Programse Potpore 1
+# OPRPP1 - Odabrana Poglavlja Razvoja Programske Potpore 1
 
 
 Nositelj: Izv. prof. dr. sc Marko Čupić
